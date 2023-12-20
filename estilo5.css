@@ -1,0 +1,18 @@
+@charset "utf-8";
+.Panaderia .pan {
+	text-align: center;
+	font-size: 30pt;
+	width: 100%;
+	height: 70px;
+}
+.Panaderia .Que.es {
+	text-align: left;
+	font-size: 18pt;
+	width: 100%;
+}
+.Panaderia .resumen {
+}
+
+.Panaderia .Cursos {
+	font-size: 24pt;
+}

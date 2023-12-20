@@ -1,0 +1,21 @@
+@charset "utf-8";
+.Computacion {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+}
+.Que.es {
+    font-size: 24px;
+}
+.definicion.de.computacion {
+    font-size: 18px;
+    text-align: justify;
+}
+.Temas {
+    font-size: 24px;
+    width: 100%;
+    margin-top: 20px;
+}
+.definicion {
+}
